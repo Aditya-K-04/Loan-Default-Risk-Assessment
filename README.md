@@ -36,3 +36,6 @@ The third task is end-to-end deployment. In this part, the trained model is inte
 The fourth task is optimization using PuLP. In this task, the business problem is framed as a loan approval optimization problem. Based on loan amount, expected profit, and default probability, the model selects the best set of applicants while keeping risk under a fixed threshold. This helps demonstrate how optimization techniques can support financial decision-making.
 
 Overall, this project combines data preprocessing, machine learning, deep learning, API deployment, and optimization in one complete workflow. It is a strong internship project because it shows both technical skills and business understanding. It also follows a real-world use case that is highly relevant to banking, fintech, and credit-risk analysis.
+
+Output :
+https://github.com/Aditya-K-04/Loan-Default-Risk-Assessment/issues/1#issue-4323042569
